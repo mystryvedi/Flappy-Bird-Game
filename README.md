@@ -32,6 +32,11 @@ The objective of the game is to navigate the bird through a series of pipes with
 
 The game has a scoring system, which increases every time the bird successfully passes through a set of pipes. The score is displayed in the top-left corner of the screen.
 
+
+## Screenshots
+
+<img width="214" alt="image" src="https://user-images.githubusercontent.com/115182741/235349340-823a5e4a-627f-4122-a8cf-3c1349b35374.png">
+
 ## Controls
 
 - Press the space bar to make the bird flap its wings and rise.
