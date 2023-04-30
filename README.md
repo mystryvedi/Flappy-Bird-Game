@@ -36,6 +36,14 @@ The game has a scoring system, which increases every time the bird successfully 
 
 - Press the space bar to make the bird flap its wings and rise.
 
+## Contributing
+
+Contributions are welcome! If you find a bug or have an idea for a feature, please open an issue or submit a pull request.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Conclusion
+
+The Flappy Bird Game is a fun and challenging game that provides hours of entertainment. This implementation is a great way to learn Python programming and Pygame library. So, start playing, learn and have fun!
