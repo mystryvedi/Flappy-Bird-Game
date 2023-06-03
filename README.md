@@ -1,6 +1,7 @@
 # Flappy Bird Game
 
 
+
 This is a Python implementation of the popular Flappy Bird game. Flappy Bird is a side-scrolling mobile game featuring 2D retro style graphics. The objective of the game is to navigate a bird, which moves continuously to the right, between sets of pipes without colliding with them.
 
 The game has been implemented using the Pygame library for Python. The source code is available in this GitHub repository along with detailed instructions on how to install and run the game on your local machine.
